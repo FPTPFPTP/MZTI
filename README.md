@@ -8,7 +8,6 @@
 | [@iam-cmh](https://github.com/iam-cmh)   | [@pointehd](https://github.com/pointehd)      | [@khunjeong](https://github.com/khunjeong)      | [@leemember](https://github.com/leemember)      |
 | 기획 및 디자인   | 백엔드 개발   | 프론트엔드 개발     | 프론트엔드 개발      |
 
-## 🛠 기술스택
 
 ## 💬 커뮤니케이션
 - Gather Town
