@@ -28,6 +28,7 @@
 - Recoil
 - React-query
 - Storybook
+- Emotions
 
 ### 백엔드
 - Kotlin
