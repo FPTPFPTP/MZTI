@@ -6,7 +6,7 @@
 | 최명희  | 황동현 |정재홍|이현주|
 | --- | ------ | ------ | ------ |
 | [@iam-cmh](https://github.com/iam-cmh)   | [@pointehd](https://github.com/pointehd)      | [@khunjeong](https://github.com/khunjeong)      | [@leemember](https://github.com/leemember)      |
-| 기획/디자인   | 백엔드     | 프론트엔드     | 프론트엔드      |
+| 기획 및 디자인   | 백엔드     | 프론트엔드     | 프론트엔드      |
 
 ## 기술스택
 
