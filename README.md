@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="[https://picsum.photos/460/300](https://velog.velcdn.com/images/leemember/post/50d86f8e-b681-4d72-a5e0-e885f9e9f0e0/image.jpeg)">
-</p>
+![](https://velog.velcdn.com/images/leemember/post/0ed7520a-02eb-4187-a348-21fbb7e0d5b1/image.jpeg)
+
 
 # Ⓜ️ MZTI
  MZ세대들의 MBTI 과몰입 서비스 플랫폼
