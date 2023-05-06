@@ -1,3 +1,6 @@
+![](https://velog.velcdn.com/images/leemember/post/5de478b2-b199-468f-8db3-5b0dedd2f8da/image.png)
+
+
 # Ⓜ️ MZTI
  MZ세대들의 MBTI 과몰입 서비스 플랫폼
 
