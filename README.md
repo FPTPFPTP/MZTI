@@ -1,5 +1,4 @@
-![](https://velog.velcdn.com/images/leemember/post/5de478b2-b199-468f-8db3-5b0dedd2f8da/image.png)
-
+![](https://velog.velcdn.com/images/leemember/post/50d86f8e-b681-4d72-a5e0-e885f9e9f0e0/image.jpeg)
 
 # Ⓜ️ MZTI
  MZ세대들의 MBTI 과몰입 서비스 플랫폼
